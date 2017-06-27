@@ -1,0 +1,5 @@
+C:\Users\Justin\AppData\Local\Temporary Projects\SpaceHardwareClub\bin\Release\SpaceHardwareClub.dll
+C:\Users\Justin\AppData\Local\Temporary Projects\SpaceHardwareClub\bin\Release\SpaceHardwareClub.pdb
+C:\Users\Justin\AppData\Local\Temporary Projects\SpaceHardwareClub\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\AppData\Local\Temporary Projects\SpaceHardwareClub\obj\Release\SpaceHardwareClub.dll
+C:\Users\Justin\AppData\Local\Temporary Projects\SpaceHardwareClub\obj\Release\SpaceHardwareClub.pdb

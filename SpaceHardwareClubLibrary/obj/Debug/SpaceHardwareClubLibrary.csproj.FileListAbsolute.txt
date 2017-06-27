@@ -1,0 +1,5 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\SpaceHardwareClubLibrary\SpaceHardwareClubLibrary\bin\Debug\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\SpaceHardwareClubLibrary\SpaceHardwareClubLibrary\bin\Debug\SpaceHardwareClubLibrary.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SpaceHardwareClubLibrary\SpaceHardwareClubLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\SpaceHardwareClubLibrary\SpaceHardwareClubLibrary\obj\Debug\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\SpaceHardwareClubLibrary\SpaceHardwareClubLibrary\obj\Debug\SpaceHardwareClubLibrary.pdb
